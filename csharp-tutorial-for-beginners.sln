@@ -21,6 +21,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S5_L49_04", "S5_L49_04\S5_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S5_L49_05", "S5_L49_05\S5_L49_05.csproj", "{D5A8DC2E-38B1-472A-AD93-510863C37122}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87C61DD8-4C96-4B6B-9E80-5825DE321445}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S6_L56_01", "S6_L56_01\S6_L56_01.csproj", "{CD014069-2D31-4779-890D-700D6DD0BC15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +70,10 @@ Global
 		{D5A8DC2E-38B1-472A-AD93-510863C37122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A8DC2E-38B1-472A-AD93-510863C37122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A8DC2E-38B1-472A-AD93-510863C37122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD014069-2D31-4779-890D-700D6DD0BC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD014069-2D31-4779-890D-700D6DD0BC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD014069-2D31-4779-890D-700D6DD0BC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD014069-2D31-4779-890D-700D6DD0BC15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

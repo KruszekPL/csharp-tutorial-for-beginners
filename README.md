@@ -1,5 +1,5 @@
 # csharp-tutorial-for-beginners
-Repository contains my solutions to Udemy course "C# Basics for Beginners: Learn C# Fundamentals by Coding" by Mosh Hamedani.
+Repository contains my solutions to Udemy course exercises: "C# Basics for Beginners: Learn C# Fundamentals by Coding" by Mosh Hamedani.
 
 https://www.udemy.com/csharp-tutorial-for-beginners/learn/v4/overview
 
