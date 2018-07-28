@@ -16,11 +16,12 @@ namespace S6_L56_05
                 Console.Write("Enter a list of comma separated numbers (e.g 5, 1, 9, 2, 10): ");
                 var input = Console.ReadLine();
 
-                numbers.AddRange(input.Trim()
-                                .Replace(" ", "")
-                                .Split(',')
-                                .Select(Int32.Parse)
-                                .ToArray());
+                numbers
+                    .AddRange(input.Trim()
+                    .Replace(" ", "")
+                    .Split(',')
+                    .Select(Int32.Parse)
+                    .ToArray());
 
                 if (!(String.IsNullOrEmpty(input) || numbers.Count < 5))
                 {
